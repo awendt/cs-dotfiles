@@ -1,1 +1,1 @@
-alias sso="aws sso login --no-browser"
+alias sso="aws sso login --no-browser --use-device-code"
